@@ -1,0 +1,12 @@
+source_item,decision,reason,package_location
+TransitStopsBoardingsAndAlightings2013.xlsx,included,"MetCouncil stop boarding/alighting workbook for the paper analysis window, 2013-2017.",data/metc_stop_boardings_alightings/original_xlsx/TransitStopsBoardingsAndAlightings2013.xlsx
+TransitStopsBoardingsAndAlightings2014.xlsx,included,"MetCouncil stop boarding/alighting workbook for the paper analysis window, 2013-2017.",data/metc_stop_boardings_alightings/original_xlsx/TransitStopsBoardingsAndAlightings2014.xlsx
+TransitStopsBoardingsAndAlightings2015.xlsx,included,"MetCouncil stop boarding/alighting workbook for the paper analysis window, 2013-2017.",data/metc_stop_boardings_alightings/original_xlsx/TransitStopsBoardingsAndAlightings2015.xlsx
+TransitStopsBoardingsAndAlightings2016.xlsx,included,"MetCouncil stop boarding/alighting workbook for the paper analysis window, 2013-2017.",data/metc_stop_boardings_alightings/original_xlsx/TransitStopsBoardingsAndAlightings2016.xlsx
+TransitStopsBoardingsAndAlightings2017.xlsx,included,"MetCouncil stop boarding/alighting workbook for the paper analysis window, 2013-2017.",data/metc_stop_boardings_alightings/original_xlsx/TransitStopsBoardingsAndAlightings2017.xlsx
+TransitStopsBoardingsAndAlightings2018.xlsx,included,"Adjacent MetCouncil stop boarding/alighting workbook retained with the complete local public source workbook set, even though the paper analysis window is 2013-2017.",data/metc_stop_boardings_alightings/original_xlsx/TransitStopsBoardingsAndAlightings2018.xlsx
+metadata/metadata.xml,included,"Public source metadata documents scope, citation URL, field descriptions, and public-domain status.",data/metc_stop_boardings_alightings/metadata/metadata.xml
+metadata/metadata.html,included,"Public source metadata documents scope, citation URL, field descriptions, and public-domain status.",data/metc_stop_boardings_alightings/metadata/metadata.html
+.DS_Store,excluded,"macOS metadata file, not research data or code.",
+LEHD/LODES WAC/RAC public data,linked_not_copied,Paper cites public Census LEHD/LODES source; this package keeps a stable source pointer rather than duplicating Census files.,metadata/PUBLIC_SOURCE_LINKS.csv
+MetCouncil transit stops public dataset,linked_not_copied,Paper cites transit stop locations; staged workbooks include coordinates and the external public stop dataset remains linked.,metadata/PUBLIC_SOURCE_LINKS.csv

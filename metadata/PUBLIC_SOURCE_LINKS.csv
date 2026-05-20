@@ -1,0 +1,4 @@
+label,url,role_in_paper,local_copy_status
+LEHD LODES public data source,https://lehd.ces.census.gov/data/#lodes.html,"Jobs and resident worker data, WAC/RAC, 2013-2017 analysis window.",not copied; public Census source pointer retained
+Minnesota Geospatial Commons MetCouncil stop boardings/alightings,https://gisdata.mn.gov/dataset/us-mn-state-metc-trans-stop-boardings-alightings,"Stop-level boardings, alightings, and bus supply source; local 2013-2017 workbooks are the analysis window and 2018 is retained as adjacent public source context.",2013-2018 workbooks copied and converted to CSV sidecars
+Minnesota Geospatial Commons MetCouncil transit stops,https://gisdata.mn.gov/dataset/us-mn-state-metc-trans-transit-stops,Transit stop locations cited in the paper; staged workbooks also include stop coordinates.,not copied; public source pointer retained
