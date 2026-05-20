@@ -1,6 +1,6 @@
 # License Status: Job And Worker Density And Transit Network Dynamics
 
-Generated: 2026-05-20 14:46:37 AEST
+Generated: 2026-05-20 15:23:47 AEST
 
 Recorded license/access note from the verified audit row: MetCouncil metadata states public domain under the Minnesota Government Data Practices Act; LEHD/LODES is a public Census source.
 
