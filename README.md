@@ -1,5 +1,9 @@
 # Job And Worker Density And Transit Network Dynamics
 
+## Contribution
+
+This paper develops and tests a micro-geographic framework for disentangling short-run interactions among land use, transit demand, and transit supply. Twin Cities block- and stop-level evidence shows that growth in resident workers can increase bus demand, induce additional service, and produce simultaneous annual co-development of transit demand and supply.
+
 ## Bibliographic Information
 
 - Row ID: `paper-2022-06`
