@@ -15,7 +15,7 @@ Generated: 2026-05-20 15:23:47 AEST
 
 ## Package Checks
 
-- Files in manifest: 25
+- Files in manifest: 26
 - Paper reference files: 2
 - Code candidates: 0
 - Data candidates: 14
@@ -25,5 +25,6 @@ Generated: 2026-05-20 15:23:47 AEST
 ## Upload Boundary
 
 - Use `PACKAGE_MANIFEST.csv` as the upload checklist.
+- Use `LICENSE` as the operative repository license and boundary statement.
 - Treat files under `paper/` as local reference copies unless rights review explicitly clears them.
-- Confirm finality and license before repository creation.
+- No MIT software license is asserted because no executable software is staged.
