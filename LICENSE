@@ -1,0 +1,29 @@
+License and reuse boundary for this repository
+
+This repository is a mixed research-data package. The license terms below
+apply only where the authors or repository maintainers control the rights.
+
+Author-created repository documentation, package metadata, source-boundary
+records, generated data dictionaries, workbook summaries, manifests, and
+modern CSV sidecars created from the staged public-domain MetCouncil source
+workbooks are licensed under the Creative Commons Attribution 4.0
+International License (CC BY 4.0):
+
+https://creativecommons.org/licenses/by/4.0/
+
+The underlying MetCouncil / Metro Transit stop boardings and alightings
+source workbooks and source metadata retain the public-domain status recorded
+in the accompanying metadata under the Minnesota Government Data Practices Act
+(Minnesota Statutes Chapter 13). This repository does not add restrictions to
+those public-domain source data.
+
+LEHD/LODES, MetCouncil transit-stop data, and other linked public-source
+inputs are not relicensed by this repository. They retain their original public
+source terms and attribution or citation expectations.
+
+The article PDF in `paper/` is included only as a local audit reference copy
+and retains its publisher or repository terms. It is not relicensed here.
+
+No MIT software license is asserted because this repository does not stage
+paper-specific scripts, notebooks, model source code, or other executable
+software.
